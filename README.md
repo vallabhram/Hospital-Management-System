@@ -11,28 +11,17 @@ This is a comprehensive Hospital Management System designed to streamline variou
 - License
 
 **Features**
-
-User Management: Manage employees, doctors, and patients.
-
-Department Management: Maintain records of different hospital departments.
-
-Patient Management: Register patients, assign doctors, and track their medical records.
-
-Inventory Management: Keep track of medical supplies and pharmaceuticals.
-
-Payroll Management: Handle payroll for hospital staff.
-
-Disease Management: Maintain records of diseases and patient diagnoses.
-
-Ward Management: Manage different types of wards and rooms.
-
-Laboratory Management: Handle laboratory tests and results.
-
-Cafeteria Management: Manage meal options for patients.
-
-Donor Tracking: Track blood donors and their associations with patients.
-
-Audit Logging: Maintain logs of patient-related actions.
+- User Management: Manage employees, doctors, and patients.
+- Department Management: Maintain records of different hospital departments.
+- Patient Management: Register patients, assign doctors, and track their medical records.
+- Inventory Management: Keep track of medical supplies and pharmaceuticals.
+- Payroll Management: Handle payroll for hospital staff.
+- Disease Management: Maintain records of diseases and patient diagnoses.
+- Ward Management: Manage different types of wards and rooms.
+- Laboratory Management: Handle laboratory tests and results.
+- Cafeteria Management: Manage meal options for patients.
+- Donor Tracking: Track blood donors and their associations with patients.
+- Audit Logging: Maintain logs of patient-related actions.
 
 
 **Installation**
